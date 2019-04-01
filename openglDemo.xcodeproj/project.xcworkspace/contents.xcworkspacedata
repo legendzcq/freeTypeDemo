@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:../freetype2-ios-master"
+      name = "freetype2-ios-master">
+      <FileRef
+         location = "group:makefile">
+      </FileRef>
+      <Group
+         location = "group:include"
+         name = "include">
+         <Group
+            location = "group:freetype"
+            name = "freetype">
+            <FileRef
+               location = "group:ftxf86.h">
+            </FileRef>
+            <FileRef
+               location = "group:ftsnames.h">
+            </FileRef>
+            <FileRef
+               location = "group:ftwinfnt.h">
+            </FileRef>
+            <FileRef
+               location = "group:ftsizes.h">
+            </FileRef>
+            <FileRef
+               location = "group:fttypes.h">
+            </FileRef>
+            <FileRef
+               location = "group:ftmm.h">
+            </FileRef>
+            <Group
+               location = "group:config"
+               name = "config">
+               <FileRef
+                  location = "group:ftstdlib.h">
+               </FileRef>
+               <FileRef
+                  location = "group:ftheader.h">
+               </FileRef>
+               <FileRef
+                  location = "group:ftconfig.h">
+               </FileRef>
+               <FileRef
+                  location = "group:ftoption.h">
+               </FileRef>
+               <FileRef
+                  location = "group:ftmodule.h">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:ftmodapi.h">
+            </FileRef>
+            <FileRef
+               location = "group:ttunpat.h">
+            </FileRef>
+            <FileRef
+               location = "group:fttrigon.h">
+            </FileRef>
+            <FileRef
+               location = "group:ftbbox.h">
+            </FileRef>
+            <FileRef
+               location = "group:ftgzip.h">
+            </FileRef>
+            <Group
+               location = "group:internal"
+               name = "internal">
+               <FileRef
+                  location = "group:sfnt.h">
+               </FileRef>
+               <FileRef
+                  location = "group:internal.h">
+               </FileRef>
+               <FileRef
+                  location = "group:ftdebug.h">
+               </FileRef>
+               <FileRef
+                  location = "group:psaux.h">
+               </FileRef>
+               <FileRef
+                  location = "group:t1types.h">
+               </FileRef>
+               <FileRef
+                  location = "group:pshints.h">
+               </FileRef>
+               <FileRef
+                  location = "group:ftdriver.h">
+               </FileRef>
+               <FileRef
+                  location = "group:autohint.h">
+               </FileRef>
+               <FileRef
+                  location = "group:ftstream.h">
+               </FileRef>
+               <FileRef
+                  location = "group:tttypes.h">
+               </FileRef>
+               <FileRef
+                  location = "group:ftvalid.h">
+               </FileRef>
+               <FileRef
+                  location = "group:ftobjs.h">
+               </FileRef>
+               <FileRef
+                  location = "group:ftpic.h">
+               </FileRef>
+               <FileRef
+                  location = "group:fttrace.h">
+               </FileRef>
+               <FileRef
+                  location = "group:ftmemory.h">
+               </FileRef>
+               <FileRef
+                  location = "group:ftgloadr.h">
+               </FileRef>
+               <FileRef
+                  location = "group:pcftypes.h">
+               </FileRef>
+               <FileRef
+                  location = "group:ftserv.h">
+               </FileRef>
+               <Group
+                  location = "group:services"
+                  name = "services">
+                  <FileRef
+                     location = "group:svmm.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:svwinfnt.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:svttcmap.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:svotval.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:svgldict.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:svpscmap.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:svkern.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:svpsinfo.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:svpfr.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:svgxval.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:svxf86nm.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:svbdf.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:svsfnt.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:svtteng.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:svcid.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:svttglyf.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:svpostnm.h">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:ftrfork.h">
+               </FileRef>
+               <FileRef
+                  location = "group:ftcalc.h">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:ftoutln.h">
+            </FileRef>
+            <FileRef
+               location = "group:ftadvanc.h">
+            </FileRef>
+            <FileRef
+               location = "group:ftsynth.h">
+            </FileRef>
+            <FileRef
+               location = "group:fterrors.h">
+            </FileRef>
+            <FileRef
+               location = "group:ftgasp.h">
+            </FileRef>
+            <FileRef
+               location = "group:ftstroke.h">
+            </FileRef>
+            <FileRef
+               location = "group:ftcache.h">
+            </FileRef>
+            <FileRef
+               location = "group:ftotval.h">
+            </FileRef>
+            <FileRef
+               location = "group:freetype.h">
+            </FileRef>
+            <FileRef
+               location = "group:ftincrem.h">
+            </FileRef>
+            <FileRef
+               location = "group:fterrdef.h">
+            </FileRef>
+            <FileRef
+               location = "group:ttnameid.h">
+            </FileRef>
+            <FileRef
+               location = "group:ftpfr.h">
+            </FileRef>
+            <FileRef
+               location = "group:ftgxval.h">
+            </FileRef>
+            <FileRef
+               location = "group:ftchapters.h">
+            </FileRef>
+            <FileRef
+               location = "group:tttags.h">
+            </FileRef>
+            <FileRef
+               location = "group:ftlzw.h">
+            </FileRef>
+            <FileRef
+               location = "group:ftsystem.h">
+            </FileRef>
+            <FileRef
+               location = "group:t1tables.h">
+            </FileRef>
+            <FileRef
+               location = "group:ftimage.h">
+            </FileRef>
+            <FileRef
+               location = "group:tttables.h">
+            </FileRef>
+            <FileRef
+               location = "group:ftcid.h">
+            </FileRef>
+            <FileRef
+               location = "group:ftglyph.h">
+            </FileRef>
+            <FileRef
+               location = "group:ftmoderr.h">
+            </FileRef>
+            <FileRef
+               location = "group:ftbitmap.h">
+            </FileRef>
+            <FileRef
+               location = "group:ftlist.h">
+            </FileRef>
+            <FileRef
+               location = "group:ftmac.h">
+            </FileRef>
+            <FileRef
+               location = "group:ftlcdfil.h">
+            </FileRef>
+            <FileRef
+               location = "group:ftbdf.h">
+            </FileRef>
+            <FileRef
+               location = "group:ftrender.h">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:ft2build.h">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:install.sh">
+      </FileRef>
+      <FileRef
+         location = "group:FTL.txt">
+      </FileRef>
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+      <FileRef
+         location = "group:freetype2.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:src"
+         name = "src">
+         <Group
+            location = "group:sfnt"
+            name = "sfnt">
+            <FileRef
+               location = "group:sfobjs.c">
+            </FileRef>
+            <FileRef
+               location = "group:ttcmap.h">
+            </FileRef>
+            <FileRef
+               location = "group:ttpost.h">
+            </FileRef>
+            <FileRef
+               location = "group:sfntpic.h">
+            </FileRef>
+            <FileRef
+               location = "group:ttkern.c">
+            </FileRef>
+            <FileRef
+               location = "group:ttsbit0.c">
+            </FileRef>
+            <FileRef
+               location = "group:ttmtx.c">
+            </FileRef>
+            <FileRef
+               location = "group:ttload.h">
+            </FileRef>
+            <FileRef
+               location = "group:sfdriver.c">
+            </FileRef>
+            <FileRef
+               location = "group:ttsbit.c">
+            </FileRef>
+            <FileRef
+               location = "group:ttbdf.h">
+            </FileRef>
+            <FileRef
+               location = "group:ttcmapc.h">
+            </FileRef>
+            <FileRef
+               location = "group:module.mk">
+            </FileRef>
+            <FileRef
+               location = "group:ttkern.h">
+            </FileRef>
+            <FileRef
+               location = "group:ttpost.c">
+            </FileRef>
+            <FileRef
+               location = "group:Jamfile">
+            </FileRef>
+            <FileRef
+               location = "group:sfntpic.c">
+            </FileRef>
+            <FileRef
+               location = "group:sfnt.c">
+            </FileRef>
+            <FileRef
+               location = "group:sfobjs.h">
+            </FileRef>
+            <FileRef
+               location = "group:ttcmap.c">
+            </FileRef>
+            <FileRef
+               location = "group:ttmtx.h">
+            </FileRef>
+            <FileRef
+               location = "group:ttsbit.h">
+            </FileRef>
+            <FileRef
+               location = "group:rules.mk">
+            </FileRef>
+            <FileRef
+               location = "group:sfdriver.h">
+            </FileRef>
+            <FileRef
+               location = "group:ttload.c">
+            </FileRef>
+            <FileRef
+               location = "group:sferrors.h">
+            </FileRef>
+            <FileRef
+               location = "group:ttbdf.c">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:smooth"
+            name = "smooth">
+            <FileRef
+               location = "group:ftgrays.c">
+            </FileRef>
+            <FileRef
+               location = "group:ftsmooth.h">
+            </FileRef>
+            <FileRef
+               location = "group:ftspic.h">
+            </FileRef>
+            <FileRef
+               location = "group:module.mk">
+            </FileRef>
+            <FileRef
+               location = "group:ftsmerrs.h">
+            </FileRef>
+            <FileRef
+               location = "group:Jamfile">
+            </FileRef>
+            <FileRef
+               location = "group:ftgrays.h">
+            </FileRef>
+            <FileRef
+               location = "group:ftspic.c">
+            </FileRef>
+            <FileRef
+               location = "group:ftsmooth.c">
+            </FileRef>
+            <FileRef
+               location = "group:rules.mk">
+            </FileRef>
+            <FileRef
+               location = "group:smooth.c">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:cff"
+            name = "cff">
+            <FileRef
+               location = "group:cffload.h">
+            </FileRef>
+            <FileRef
+               location = "group:cffgload.c">
+            </FileRef>
+            <FileRef
+               location = "group:cffobjs.c">
+            </FileRef>
+            <FileRef
+               location = "group:cffparse.h">
+            </FileRef>
+            <FileRef
+               location = "group:cffpic.h">
+            </FileRef>
+            <FileRef
+               location = "group:cffcmap.h">
+            </FileRef>
+            <FileRef
+               location = "group:cffdrivr.c">
+            </FileRef>
+            <FileRef
+               location = "group:cfftypes.h">
+            </FileRef>
+            <FileRef
+               location = "group:module.mk">
+            </FileRef>
+            <FileRef
+               location = "group:cffparse.c">
+            </FileRef>
+            <FileRef
+               location = "group:cff.c">
+            </FileRef>
+            <FileRef
+               location = "group:cfftoken.h">
+            </FileRef>
+            <FileRef
+               location = "group:cffobjs.h">
+            </FileRef>
+            <FileRef
+               location = "group:Jamfile">
+            </FileRef>
+            <FileRef
+               location = "group:cffgload.h">
+            </FileRef>
+            <FileRef
+               location = "group:cffload.c">
+            </FileRef>
+            <FileRef
+               location = "group:cffpic.c">
+            </FileRef>
+            <FileRef
+               location = "group:cffdrivr.h">
+            </FileRef>
+            <FileRef
+               location = "group:rules.mk">
+            </FileRef>
+            <FileRef
+               location = "group:cffcmap.c">
+            </FileRef>
+            <FileRef
+               location = "group:cfferrs.h">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:autofit"
+            name = "autofit">
+            <FileRef
+               location = "group:afindic.h">
+            </FileRef>
+            <FileRef
+               location = "group:afdummy.h">
+            </FileRef>
+            <FileRef
+               location = "group:aflatin2.c">
+            </FileRef>
+            <FileRef
+               location = "group:afmodule.h">
+            </FileRef>
+            <FileRef
+               location = "group:afwarp.c">
+            </FileRef>
+            <FileRef
+               location = "group:afpic.c">
+            </FileRef>
+            <FileRef
+               location = "group:afglobal.c">
+            </FileRef>
+            <FileRef
+               location = "group:afhints.h">
+            </FileRef>
+            <FileRef
+               location = "group:afangles.c">
+            </FileRef>
+            <FileRef
+               location = "group:aflatin.c">
+            </FileRef>
+            <FileRef
+               location = "group:afloader.h">
+            </FileRef>
+            <FileRef
+               location = "group:module.mk">
+            </FileRef>
+            <FileRef
+               location = "group:afcjk.c">
+            </FileRef>
+            <FileRef
+               location = "group:Jamfile">
+            </FileRef>
+            <FileRef
+               location = "group:aflatin2.h">
+            </FileRef>
+            <FileRef
+               location = "group:aferrors.h">
+            </FileRef>
+            <FileRef
+               location = "group:afdummy.c">
+            </FileRef>
+            <FileRef
+               location = "group:afindic.c">
+            </FileRef>
+            <FileRef
+               location = "group:autofit.c">
+            </FileRef>
+            <FileRef
+               location = "group:afpic.h">
+            </FileRef>
+            <FileRef
+               location = "group:afglobal.h">
+            </FileRef>
+            <FileRef
+               location = "group:afwarp.h">
+            </FileRef>
+            <FileRef
+               location = "group:afmodule.c">
+            </FileRef>
+            <FileRef
+               location = "group:rules.mk">
+            </FileRef>
+            <FileRef
+               location = "group:aftypes.h">
+            </FileRef>
+            <FileRef
+               location = "group:afcjk.h">
+            </FileRef>
+            <FileRef
+               location = "group:afloader.c">
+            </FileRef>
+            <FileRef
+               location = "group:aflatin.h">
+            </FileRef>
+            <FileRef
+               location = "group:afangles.h">
+            </FileRef>
+            <FileRef
+               location = "group:afhints.c">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:pshinter"
+            name = "pshinter">
+            <FileRef
+               location = "group:pshmod.c">
+            </FileRef>
+            <FileRef
+               location = "group:pshrec.h">
+            </FileRef>
+            <FileRef
+               location = "group:pshpic.c">
+            </FileRef>
+            <FileRef
+               location = "group:pshglob.h">
+            </FileRef>
+            <FileRef
+               location = "group:module.mk">
+            </FileRef>
+            <FileRef
+               location = "group:pshalgo.c">
+            </FileRef>
+            <FileRef
+               location = "group:pshmod.h">
+            </FileRef>
+            <FileRef
+               location = "group:pshinter.c">
+            </FileRef>
+            <FileRef
+               location = "group:Jamfile">
+            </FileRef>
+            <FileRef
+               location = "group:pshnterr.h">
+            </FileRef>
+            <FileRef
+               location = "group:pshpic.h">
+            </FileRef>
+            <FileRef
+               location = "group:pshrec.c">
+            </FileRef>
+            <FileRef
+               location = "group:rules.mk">
+            </FileRef>
+            <FileRef
+               location = "group:pshalgo.h">
+            </FileRef>
+            <FileRef
+               location = "group:pshglob.c">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:truetype"
+            name = "truetype">
+            <FileRef
+               location = "group:ttinterp.c">
+            </FileRef>
+            <FileRef
+               location = "group:ttpload.c">
+            </FileRef>
+            <FileRef
+               location = "group:ttgxvar.c">
+            </FileRef>
+            <FileRef
+               location = "group:tterrors.h">
+            </FileRef>
+            <FileRef
+               location = "group:ttdriver.h">
+            </FileRef>
+            <FileRef
+               location = "group:truetype.c">
+            </FileRef>
+            <FileRef
+               location = "group:ttpic.h">
+            </FileRef>
+            <FileRef
+               location = "group:ttobjs.c">
+            </FileRef>
+            <FileRef
+               location = "group:ttgload.h">
+            </FileRef>
+            <FileRef
+               location = "group:module.mk">
+            </FileRef>
+            <FileRef
+               location = "group:Jamfile">
+            </FileRef>
+            <FileRef
+               location = "group:ttgxvar.h">
+            </FileRef>
+            <FileRef
+               location = "group:ttpload.h">
+            </FileRef>
+            <FileRef
+               location = "group:ttinterp.h">
+            </FileRef>
+            <FileRef
+               location = "group:ttpic.c">
+            </FileRef>
+            <FileRef
+               location = "group:ttdriver.c">
+            </FileRef>
+            <FileRef
+               location = "group:ttobjs.h">
+            </FileRef>
+            <FileRef
+               location = "group:rules.mk">
+            </FileRef>
+            <FileRef
+               location = "group:ttgload.c">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:raster"
+            name = "raster">
+            <FileRef
+               location = "group:ftmisc.h">
+            </FileRef>
+            <FileRef
+               location = "group:rasterrs.h">
+            </FileRef>
+            <FileRef
+               location = "group:rastpic.c">
+            </FileRef>
+            <FileRef
+               location = "group:ftrend1.h">
+            </FileRef>
+            <FileRef
+               location = "group:ftraster.h">
+            </FileRef>
+            <FileRef
+               location = "group:module.mk">
+            </FileRef>
+            <FileRef
+               location = "group:Jamfile">
+            </FileRef>
+            <FileRef
+               location = "group:rastpic.h">
+            </FileRef>
+            <FileRef
+               location = "group:rules.mk">
+            </FileRef>
+            <FileRef
+               location = "group:ftraster.c">
+            </FileRef>
+            <FileRef
+               location = "group:raster.c">
+            </FileRef>
+            <FileRef
+               location = "group:ftrend1.c">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:psnames"
+            name = "psnames">
+            <FileRef
+               location = "group:psnamerr.h">
+            </FileRef>
+            <FileRef
+               location = "group:psmodule.c">
+            </FileRef>
+            <FileRef
+               location = "group:pspic.h">
+            </FileRef>
+            <FileRef
+               location = "group:module.mk">
+            </FileRef>
+            <FileRef
+               location = "group:pstables.h">
+            </FileRef>
+            <FileRef
+               location = "group:Jamfile">
+            </FileRef>
+            <FileRef
+               location = "group:psnames.c">
+            </FileRef>
+            <FileRef
+               location = "group:rules.mk">
+            </FileRef>
+            <FileRef
+               location = "group:psmodule.h">
+            </FileRef>
+            <FileRef
+               location = "group:pspic.c">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:base"
+            name = "base">
+            <FileRef
+               location = "group:ftobjs.c">
+            </FileRef>
+            <FileRef
+               location = "group:ftinit.c">
+            </FileRef>
+            <FileRef
+               location = "group:ftapi.c">
+            </FileRef>
+            <FileRef
+               location = "group:ftdbgmem.c">
+            </FileRef>
+            <FileRef
+               location = "group:ftbase.c">
+            </FileRef>
+            <FileRef
+               location = "group:basepic.c">
+            </FileRef>
+            <FileRef
+               location = "group:ftpic.c">
+            </FileRef>
+            <FileRef
+               location = "group:ftbitmap.c">
+            </FileRef>
+            <FileRef
+               location = "group:ftglyph.c">
+            </FileRef>
+            <FileRef
+               location = "group:ftgloadr.c">
+            </FileRef>
+            <FileRef
+               location = "group:ftsystem.c">
+            </FileRef>
+            <FileRef
+               location = "group:ftrfork.c">
+            </FileRef>
+            <FileRef
+               location = "group:ftcalc.c">
+            </FileRef>
+            <FileRef
+               location = "group:ftutil.c">
+            </FileRef>
+            <FileRef
+               location = "group:ftsnames.c">
+            </FileRef>
+            <FileRef
+               location = "group:ftdebug.c">
+            </FileRef>
+            <FileRef
+               location = "group:basepic.h">
+            </FileRef>
+            <FileRef
+               location = "group:ftbase.h">
+            </FileRef>
+            <FileRef
+               location = "group:fttrigon.c">
+            </FileRef>
+            <FileRef
+               location = "group:ftbbox.c">
+            </FileRef>
+            <FileRef
+               location = "group:ftstroke.c">
+            </FileRef>
+            <FileRef
+               location = "group:ftsynth.c">
+            </FileRef>
+            <FileRef
+               location = "group:ftadvanc.c">
+            </FileRef>
+            <FileRef
+               location = "group:ftstream.c">
+            </FileRef>
+            <FileRef
+               location = "group:ftoutln.c">
+            </FileRef>
+         </Group>
+      </Group>
+   </Group>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
