@@ -16,6 +16,8 @@ int main() {
     FT_Face pFTFace = NULL;
     FT_Error error = 0;
     //Init FreeType Lib to manage memory
+    
+    
     error = FT_Init_FreeType(&pFTLib);
     if (error) {
         pFTLib = 0;
